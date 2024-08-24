@@ -21,4 +21,4 @@ Validation Accuracy: 81%
 
 # Future Work
 Experiment with different architectures and hyperparameters.
-Implement data augmentation techniques to improve performance.
+Implement data augmentation techniques to improve and give better performance .
